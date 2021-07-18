@@ -22,6 +22,6 @@ Gamepad support tested with Chrome(-ium).
 
 ---
 
-> The code has been moved to the https://goeroeg.github.io/ld-learn project.
+> The code has been moved to the https://github.com/goeroeg/ld-learn project.
 
 ---
